@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header
+{
+	border: solid 2px; width: auto; height: 100px;
+	background:url(../images/cropped-website-header-background.jpg);
+    font-size: 19px;
+	background-size:cover;
+	padding-top: 10px;
+	padding-right: 1000px;
+	padding-bottom: 5px;
+	display: block;
+	
+	
+}
+
+#RI
+{
+	width: auto; height:0px; 
+	text-align: right;
+	padding-right:20px;
+}
+#RI a
+{
+	color:whitesmoke;
+}
+
+#brand
+{
+	color:whitesmoke;
+	
+}
+
+#LR  
+{
+	font-size: 20px;
+	border: solid;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-color: black;
+	background-color:darkgray;
+	
+}
+
+#menu ul {
+  background:black;
+  list-style-type: none;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 1px;
+
+
+}
+#menu li {
+  color: white;
+  display:inline-block;
+  width: 160px;
+  height: 40px;
+  line-height: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+#menu a {
+  text-decoration: none;
+  color: white;
+  display:block;
+}
+#menu a:hover {
+  background: white;
+  color: blue;
+}
+
+.sub-menu {
+  display:none;
+  position: absolute;
+}
+#menu li {
+  position: relative;
+  
+}
+#menu li:hover .sub-menu 
+{
+  display:block;
+}
+#image
+{
+   padding-top: 30px;
+   padding-left: 20px;
+   padding-bottom: 20px;
+   
+}
+#a1
+{
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+#a1 p
+{
+	text-align: center;
+}
+#a2
+{
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+#a2 p
+{
+	text-align: center;
+	
+}
+#a3 td
+{
+	padding: 50px
+}
+
+#backmain
+{
+	padding: 20px;
+	background-image: url(../images/lifeanime.jpg); 
+    background-position: right;
+	background-repeat:no-repeat;
+	background-color:dodgerblue;
+}
+#backmain ul 
+{
+	color: aliceblue;
+}
+#backmain li
+{
+	color: aliceblue;
+}
+
+#pic1
+{
+	background-color:whitesmoke;
+}
+
+.search-container {
+  float: right;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+#product 
+{
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+#product p
+{
+	text-align: left;
+	margin-left: 20px;
+}
+#admin  td
+{
+	border: 1px solid black; 
+	border-collapse: collapse;
+	padding: 15px;
+}
+#create ul {
+  background:grey;
+  list-style-type: none;
+  text-align: left;
+  padding-bottom: 10px;
+  padding-top: 1px;
+
+}
+#create li 
+{
+  display:inline-block;
+  width: 160px;
+  height: 40px;
+  line-height: 50px;
+  margin-left: 30px;
+  
+
+}
+#create a {
+  text-decoration: none;
+  color:white;
+  display:block;
+}
+
+	
+
+
+
+
+
+
+
+
+
